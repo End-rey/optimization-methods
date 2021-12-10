@@ -140,7 +140,7 @@ double lipsh(int fun)
         return 0;
 }
 
-double oldbutgold(int a, int b, int fun)
+double oldbutgold(int a, int b, int fun) 
 {
     float max = 0, x, y, k;
     double step = -1, delta, alpha, beta, fal, fbe, e = b - a;
